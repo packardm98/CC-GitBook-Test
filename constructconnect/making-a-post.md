@@ -1,6 +1,6 @@
 # 📪 Making a post
 
-## Step 1 - Start journalling
+## Step 1 - Start journaling
 
 We shall see if this shows up...
 
