@@ -9,7 +9,7 @@
 
 ## ConstructConnect
 
-* [📪 Making a post](constructconnect/making-a-post.md)
+* [📪 Changing a Title](constructconnect/making-a-post.md)
 * [📎 Understanding Projects](constructconnect/understanding-projects.md)
 
 ## People and Culture
